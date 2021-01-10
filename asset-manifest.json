@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/moredogs-expo/static/js/app.43abb36f.chunk.js",
+    "app.js.map": "/moredogs-expo/static/js/app.43abb36f.chunk.js.map",
+    "runtime~app.js": "/moredogs-expo/static/js/runtime~app.43f12768.js",
+    "runtime~app.js.map": "/moredogs-expo/static/js/runtime~app.43f12768.js.map",
+    "static/js/2.f2dca43c.chunk.js": "/moredogs-expo/static/js/2.f2dca43c.chunk.js",
+    "static/js/2.f2dca43c.chunk.js.map": "/moredogs-expo/static/js/2.f2dca43c.chunk.js.map",
+    "pug.png": "/moredogs-expo/08394692880c4c37ae8383c94702b167.png",
+    "corgi.png": "/moredogs-expo/1cd8dd0f01d2668ce81e376ae8d31401.png",
+    "close.png": "/moredogs-expo/be5989dbfe7154ad949f4f735b7b6784.png",
+    "index.html": "/moredogs-expo/index.html",
+    "manifest.json": "/moredogs-expo/manifest.json",
+    "serve.json": "/moredogs-expo/serve.json",
+    "static/js/2.f2dca43c.chunk.js.LICENSE.txt": "/moredogs-expo/static/js/2.f2dca43c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.43f12768.js",
+    "static/js/2.f2dca43c.chunk.js",
+    "static/js/app.43abb36f.chunk.js"
+  ]
+}
